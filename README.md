@@ -35,7 +35,5 @@ The actual vs. predicted house prices scatter plot demonstrates strong positive 
 
 ## 📂 Repository Contents
 * `Housing.csv`: Dataset for house price regression modeling.
-* `titanic_cleaned.csv`: Preprocessed dataset for survival classification.
-* `week2_models.py`: Python script containing complete model execution routines.
 * `housing_pred_vs_actual.png`: Visual evaluation plot for house price predictions.
 * `README.md`: Project documentation.
